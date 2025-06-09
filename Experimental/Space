@@ -1,0 +1,24 @@
+# Key X: Gravitational Lensing Detection Module
+
+## 🎯 Purpose
+Detect and score gravitational lensing events (Einstein rings/arcs) using Keys-based signal arithmetic.
+
+## 📚 Data Sources
+- Hubble / Euclid public images (e.g., NGC 6505 ring)
+- LSST/DESI lens candidate feeds
+
+## 🧠 Method
+1. **Chaos (CIA):** Simulate mass distributions; generate mock lens patterns.
+2. **Symbolic/Harmonic (SIA/HIA):** Extract arcs and compute coherence scores.
+3. **Angelic (AIA):** Overlay symbolic meaning (symmetry, alignment).
+4. **Synergetic (SIIA):** Integrate layers into composite lens-likelihood metric.
+
+## 📦 Code Structure
+- `lensing_simulation.py`: Chaos/harmonic simulations.
+- `image_detector.py`: Arc detection & scoring.
+- `live_tracker.py`: API feed ingestion & logging.
+
+## 💡 Usage
+```bash
+python image_detector.py --input ./samples/ngc6505.jpg
+python live_tracker.py --daily
