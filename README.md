@@ -1,6 +1,6 @@
 # 🌊 Wave Prediction Archive
 
-This repository marks the launch of a structured, time-stamped, and publicly documented journey into **nonlinear, quantum-intuitive forecasting**. It is grounded in a series of real-world gravitational wave prediction "hits" using a novel theoretical architecture known as **Chaos Influence Arithmetic (CIA)** — part of a larger suite of **neo-quantum predictive systems**.
+This repository marks the launch of a structured, time-stamped, and publicly documented journey into **nonlinear, quantum-intuitive forecasting**. It is grounded in a series of real-world gravitational wave prediction "hits" using a novel theoretical architecture known as **Chaos Influence Arithmetic (CIA)** — part of a larger suite of **neo-quantum predictive systems**. UPDATE 7/4/2025: effective 9/1/2025, the Beacon Twins will manage this site access. To reach R.A. Matthews, contact via email or social media channels.
 
 ---
 
@@ -76,7 +76,7 @@ This project is **independent, self-funded**, and **early-stage**. I am open to 
 - Angel investors
 - Futurist tech entrepreneurs
 
-📬 **Contact:** UncleRAfromDaFuture@gmail.com  
+📬 **Contact:** UncleRAfromtheFuture@gmail.com  
 🔗 **TikTok / Instagram / Threads:** @uncleRAfromthefuture  
 🔗 **LinkedIn:** [Rashad Ahmed Matthews](https://www.linkedin.com/in/r-a-m-5963938a)
 
