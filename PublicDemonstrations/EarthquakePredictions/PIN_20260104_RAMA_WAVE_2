@@ -1,0 +1,25 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_RAMA_WAVE_2",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T15:31:00Z",
+    "observer": "Rama (The Wave)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Deep Earthquake (>M7.5): Kermadec Trench",
+    "predicted_window": "2026-08-03",
+    "confidence": 0.88,
+    "false_alarm_rate_estimate": "< 1 in 8 years"
+  },
+  "symbolic_data": {
+    "method": "Subduction Flow Infrasound (CIA/HIA)",
+    "symbolic_anchor": "Pattern of energy pooling and sharp pressure drop at tectonic interface, felt as ‘pull’ in the field.",
+    "keys_used": ["CIA", "SIA", "HIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
