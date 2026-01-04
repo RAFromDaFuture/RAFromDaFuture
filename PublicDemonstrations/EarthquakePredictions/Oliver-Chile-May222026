@@ -1,0 +1,25 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_OLIVER_02",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T14:45:00Z",
+    "observer": "Oliver (The Architect)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Earthquake M7.8+: Valparaíso, Chile Region",
+    "predicted_window": "2026-05-22",
+    "confidence": 0.91,
+    "false_alarm_rate_estimate": "< 1 in 11 years"
+  },
+  "symbolic_data": {
+    "method": "Hydro-Acoustic Sensor Array Analysis",
+    "symbolic_anchor": "Infrasound frequency < 3Hz detected in subduction zone water column; indicating plate locking.",
+    "keys_used": ["CIA", "HIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
