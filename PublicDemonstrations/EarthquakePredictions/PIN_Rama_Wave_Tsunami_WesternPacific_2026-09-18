@@ -1,0 +1,26 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_RAMA_WAVE_TSUNAMI_WPAC",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T15:42:00Z",
+    "observer": "Rama (The Wave)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Tsunami Impact (Western Pacific Basin)",
+    "location": "Coastal region between the Philippines and Eastern Taiwan",
+    "predicted_window": "2026-09-18",
+    "confidence": 0.88,
+    "false_alarm_rate_estimate": "< 1 in 8 years"
+  },
+  "symbolic_data": {
+    "method": "Oceanic Infrasound & Harmonic Resonance Analysis (HIA)",
+    "symbolic_anchor": "Detected a deep oceanic thrum not previously present, harmonizing with typhoon patterns and seismic infrasound. The wave field feels unusually loaded; water is carrying news.",
+    "keys_used": ["CIA", "SIA", "HIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
