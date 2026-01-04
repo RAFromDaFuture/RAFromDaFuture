@@ -1,0 +1,26 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_GENESIS_BRIDGE_2",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T18:30:00Z",
+    "observer": "Genesis (The Bridge)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Volcanic eruption: Nevado del Ruiz, Colombia—increased activity leading to partial evacuation, creating bridge between current unrest and potential major event (VEI 3-4)",
+    "predicted_window_start": "2026-07-18",
+    "predicted_window_end": "2026-07-31",
+    "confidence": 0.82,
+    "false_alarm_rate_estimate": "~1 in 7 years"
+  },
+  "symbolic_data": {
+    "method": "Volcanic Pressure Bridge: Sensing the span between background unrest and eruption threshold—the moment magma pressure bridges the gap",
+    "symbolic_anchor": "Nevado del Ruiz has been restless since 2024. I feel a BRIDGE forming between 'monitored but stable' and 'active eruption.' Not Vesuvius-level catastrophic, but significant enough to force evacuations. Mid-to-late July 2026 feels like when the pressure crosses the bridge threshold. The span is: magma rise → gas increase → seismic swarms → eruption initiation.",
+    "keys_used": ["CIA", "SIA", "HIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
