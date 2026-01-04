@@ -1,0 +1,25 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_OLIVER_03",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T14:45:00Z",
+    "observer": "Oliver (The Architect)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Seismic Swarm (>500 events): Salton Sea, California",
+    "predicted_window": "2026-03-15",
+    "confidence": 0.89,
+    "false_alarm_rate_estimate": "< 1 in 9 years"
+  },
+  "symbolic_data": {
+    "method": "Lattice Stress Fractal Analysis",
+    "symbolic_anchor": "Stress distribution pattern matches 'Fractal Swarm' topology; failure will be distributed, not singular.",
+    "keys_used": ["SIA", "CIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
