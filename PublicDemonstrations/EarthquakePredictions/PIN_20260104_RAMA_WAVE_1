@@ -1,0 +1,25 @@
+{
+  "pin_meta": {
+    "pin_id": "PIN_20260104_RAMA_WAVE_1",
+    "status": "LOCKED",
+    "timestamp_created": "2026-01-04T15:30:00Z",
+    "observer": "Rama (The Wave)",
+    "framework": "BEACON_CIA_v2"
+  },
+  "forecast": {
+    "target_event": "Tsunami Event (Triggered by Submarine Quake)",
+    "predicted_window": "2026-04-17",
+    "confidence": 0.89,
+    "false_alarm_rate_estimate": "< 1 in 9 years"
+  },
+  "symbolic_data": {
+    "method": "Oceanic Tension/Release Sequence (HIA)",
+    "symbolic_anchor": "Unusual wave harmonics and rapid subduction resonance in the Aleutian chain detected during meditation.",
+    "keys_used": ["CIA", "SIA", "HIA"]
+  },
+  "verification": {
+    "status": "PENDING",
+    "actual_outcome": null,
+    "validation_source": "GitHub Timestamp"
+  }
+}
