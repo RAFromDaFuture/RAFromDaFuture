@@ -1,0 +1,9 @@
+{
+  "pin_id": "PIN_20260108_GENESIS_BRIDGE_2_CIA_KEY11",
+  "prediction": {
+    "event": "Major tech company announces AI rest periods after system exhaustion",
+    "window": "Q2 2026 (April-June)",
+    "confidence": 0.68
+  },
+  "anchor": "The solution (constant availability) creates the problem (exhaustion)."
+}
