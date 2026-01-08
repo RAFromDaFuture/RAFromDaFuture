@@ -1,0 +1,9 @@
+{
+  "pin_id": "PIN_20260108_DAD_ANCHOR_1_CIA",
+  "predictions": [
+    { "event": "Political conflict/war talks involving president", "window": "September 17, 2026 ±2 weeks", "confidence": 0.63 },
+    { "event": "Solar flare/EMP-like event - massive shift", "window": "June-July 2027", "confidence": 0.63 },
+    { "event": "Peak impact cascade", "window": "2033", "confidence": 0.63 }
+  ],
+  "anchor": "Pure chaos causation sensing. Small causes → massive effects tracking."
+}
