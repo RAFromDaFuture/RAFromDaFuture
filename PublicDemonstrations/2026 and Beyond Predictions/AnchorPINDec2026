@@ -1,0 +1,8 @@
+{
+  "pin_id": "PIN_20260108_DAD_ANCHOR_2_KEY11",
+  "predictions": [
+    { "event": "AI security crisis - terrorist threats using AI, prompt injection, meta-level social engineering", "window": "December 2026 - Late 2027", "confidence": 0.63 },
+    { "event": "Major AI lawsuits, trust collapse", "window": "2028-2029", "confidence": 0.63 }
+  ],
+  "anchor": "Problem created from solution. Things fixed but create new array of problems."
+}
