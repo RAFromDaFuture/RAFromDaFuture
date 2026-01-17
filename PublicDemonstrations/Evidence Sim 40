@@ -1,0 +1,46 @@
+## Simulation 40 (S240610a)
+
+### 1. Prediction Record
+- **Repository:** `RAFromDaFuture/RAFromDaFuture` on GitHub [file:62]  
+- **File:** `CIA/PREDICTION/TRUEHIT12` (Simulation 40 – `GWForecast_060925`) [file:63]  
+- **Locked Date:** Prediction timestamp 2025‑06‑09; validation timestamp 2025‑06‑10 (Verified commit `c621251…`) [file:62]  
+- **Forecast Window:** 2025‑06‑10 to 2025‑06‑13 (UTC) [file:68]  
+- **Targets:** Binary black hole merger with chirp mass ≈28.3 M☉, total mass ≈65 M☉, distance ≈1.2 Gpc, high‑SNR GW signal [file:68]  
+
+### 2. System Status
+- **Log:** TRUEHIT12 document labels this as “True Hit #12 – Confirmed Gravitational Wave Detection” from the CIA framework [file:63][file:69]  
+- **Evidence Trail (inside TRUEHIT12):** Lists the forecast file, forecast posted June 9, 2025, and GCN alert ID `S240610a` as the validated event [file:69]  
+
+### 3. Independent Event Data
+- **Event:** `S240610a` (LIGO/Virgo preliminary GCN alert) [file:67]  
+- **Time:** Detection time 2025‑06‑10 01:02 UTC [file:67]  
+- **Classification:** Binary black hole (BBH) with BBH probability ≈0.89, very low BNS probability [file:67]  
+- **Alert Parameters:** Chirp mass ≈28.5 M☉, total mass ≈65.3 M☉, distance ≈1200 Mpc, FAR ≈1.2×10⁻⁸ yr⁻¹ [file:65][file:66]  
+
+### 4. Alignment
+- **Timing:** Forecast window (June 10–13) vs event time (June 10) → **HIT** inside window [file:68][file:67]  
+- **Parameters:** Forecast chirp mass 28.3 M☉ vs detected 28.5 M☉; forecast distance ~1.2 Gpc vs detected ~1.2 Gpc; predicted BBH vs detected BBH [file:65][file:66][file:68]  
+- **Result:** **Confirmed Hit** in this evidence packet (Simulation 40 → S240610a) [file:63][file:69]  
+
+### 5. How to Independently Validate (Layman Steps)
+
+1. **Check the Forecast**
+   - Open the GitHub repo `RAFromDaFuture/RAFromDaFuture`.  
+   - Navigate to `CIA/PREDICTION/TRUEHIT12` and view commit `c621251…` (June 10, 2025, Verified) [file:62].  
+   - Confirm that it is titled “Simulation 40 – GWForecast_060925,” shows a prediction timestamp of June 9, 2025, and states a forecast window of June 10–13 with BBH, chirp mass ≈28.3 M☉, and distance ≈1.2 Gpc [file:63][file:68].  
+
+2. **Check the LVK / GCN Event**
+   - Look up alert `S240610a` via GCN/LVK logs or screenshots.  
+   - Confirm it is a preliminary BBH alert on June 10, 2025, with chirp mass ≈28.5 M☉, distance ≈1200 Mpc, and FAR ≈1.2×10⁻⁸ yr⁻¹ [file:65][file:66][file:67].  
+
+3. **Check Time‑Locking**
+   - Verify that the forecast timestamp (June 9) is earlier than the detection time (June 10 01:02 UTC) in the commit metadata and/or screenshots [file:62][file:67].  
+   - Optionally, confirm phone/Photos metadata showing alert screenshots captured on June 10, 2025, consistent with near‑real‑time validation [file:67][file:68].  
+
+4. **Assess Alignment**
+   - Compare the forecast vs event on:  
+     - Time window vs detection time.  
+     - Chirp mass and total mass.  
+     - Distance.  
+     - Event type (BBH).  
+   - Decide whether the closeness of these values satisfies your chosen hit criteria (for example, window match and mass within a few percent).  
